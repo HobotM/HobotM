@@ -1,6 +1,7 @@
 BSC Mobile & Web Developer, frontend experience with using HTML, CSS and Javascript and backend experience using c#, asp.net, php. Also hold oracle certificates in database design and database programming.
 
 - 👋 Hi, I’m @HobotM - Matt Hobot
+- 🏘  Based in Scotland, Glasgow
 - 👀 I’m interested in coding, photography, computers
 - 🌱 I’m currently learning ReactJS, Laravel and MERN stack
 - 📫 You can reach me using mateuszhobot@gmail.com
