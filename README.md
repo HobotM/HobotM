@@ -1,7 +1,7 @@
 ### BSC Mobile & Web Developer
 🔧 Specializing in both frontend and backend development
 - **Frontend**: HTML, CSS, Javascript
-- **Backend**: C#, ASP.NET, PHP
+- **Backend**: C#, .NET
 - 🎓 **Certifications**: Oracle certificates in database design and database programming
 
 ---
