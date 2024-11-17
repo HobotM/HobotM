@@ -10,7 +10,7 @@
 - 👋 Hi, I’m **Matt Hobot**, also known as **@HobotM**
 - 🏘 Based in **Scotland, Glasgow**
 - 👀 I’m passionate about **coding**, **photography**, and **computers**
-- 🌱 Currently, I’m sharpening my skills in **.NET**, **ASP.NET**, **Angular** for full-stack development
+- 🌱 Currently, I’m sharpening my skills in **.NET**, **ASP.NET**, **React** for full-stack development
 
 ---
 
